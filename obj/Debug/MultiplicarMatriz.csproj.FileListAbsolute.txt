@@ -1,0 +1,8 @@
+C:\Users\Estudo\C#\MultiplicarMatriz\MultiplicarMatriz\bin\Debug\MultiplicarMatriz.exe.config
+C:\Users\Estudo\C#\MultiplicarMatriz\MultiplicarMatriz\bin\Debug\MultiplicarMatriz.exe
+C:\Users\Estudo\C#\MultiplicarMatriz\MultiplicarMatriz\bin\Debug\MultiplicarMatriz.pdb
+C:\Users\Estudo\C#\MultiplicarMatriz\MultiplicarMatriz\obj\Debug\MultiplicarMatriz.csproj.AssemblyReference.cache
+C:\Users\Estudo\C#\MultiplicarMatriz\MultiplicarMatriz\obj\Debug\MultiplicarMatriz.csproj.SuggestedBindingRedirects.cache
+C:\Users\Estudo\C#\MultiplicarMatriz\MultiplicarMatriz\obj\Debug\MultiplicarMatriz.csproj.CoreCompileInputs.cache
+C:\Users\Estudo\C#\MultiplicarMatriz\MultiplicarMatriz\obj\Debug\MultiplicarMatriz.exe
+C:\Users\Estudo\C#\MultiplicarMatriz\MultiplicarMatriz\obj\Debug\MultiplicarMatriz.pdb
